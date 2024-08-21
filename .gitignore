@@ -1,0 +1,75 @@
+# MacOS system files
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment directories
+venv/
+ENV/
+env/
+*.egg-info/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pyenv
+.python-version
+
+# Local environment variables
+.env
+
+# Miscellaneous
+*.log
+*.tmp
+
+# Build directories
+build/
+dist/
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+
+# PyInstaller
+*.spec
+
+# Coverage reports
+.coverage
+.coverage.*
+*.cover
+*.nib
+*.nosetests.xml
+coverage.xml
+*.lcov
+*.nox
+*.tox
+*.coverage
+*.coverage.*
+*.nosetests.xml
+*.coverage
+*.tox/
+*.nox/
+
+# MyPy
+.mypy_cache/
+
+# Sphinx documentation
+docs/_build/
+
+# SQL database files
+*.sqlite3
+*.db
+
+# Environment variable files
+.env
+
